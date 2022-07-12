@@ -1,6 +1,7 @@
 from django.db import models
 
-# testando conflitos.
+# crie seus modelos aqui..
+>>>>>>> be4dabc441c6c331d2079ba66dc69fa3f17a40ab
 class Departamento(models.Model):
     nome = models.CharField(max_length=20)
 
