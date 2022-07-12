@@ -73,6 +73,7 @@ WSGI_APPLICATION = 'MeuPrimeiroProjetoDjango.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
+#TESTANDO PARA GIT 
 
 DATABASES = {
     'default': {
